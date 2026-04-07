@@ -15,4 +15,4 @@ A Python-based tool that uses Google Gemini API (with a robust fallback mechanis
 - **Formatting**: Outputs clean, structured task lists.
 
 ## Video Demo
-[Link to your YouTube Video here]
+[\[Link to your YouTube Video here\]](https://youtu.be/x03VTjj1jcs)
